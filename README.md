@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution page on Frontend Mentor]()
+- Solution URL: [Solution page on Frontend Mentor](https://www.frontendmentor.io/solutions/fylo-data-storage-component-BJMNce_85)
 - Live Site URL: [Github Pages](https://rachmatilham.github.io/fylo-data-storage-component-master/)
 
 ## My process

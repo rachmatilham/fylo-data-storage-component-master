@@ -33,7 +33,7 @@ header {
   width: 87%;
   max-width: 350px;
   border-radius: 10px;
-  border-top-right-radius: 90px;
+  border-top-right-radius: 100px;
   background-color: var(--dark-blue);
   text-align: left;
 }
@@ -80,7 +80,7 @@ article {
   height: 20px;
   padding: 3px;
   border-radius: 10px;
-  background-color: var(--very-dark-blue);
+  background-color: hsl(230, 55%, 18%);
 }
 .card .storage .indicator {
   width: 75.5%;
